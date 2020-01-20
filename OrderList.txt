@@ -1,0 +1,17 @@
+1,Roast Duck,1,Daniel,02137098693,47 Carrington Rd
+2,Singapore Fried Rice,4,Uda,02485793453,14 Hamlin Ave
+3,Pork Fried Rice,2,Haven,02219287879,56 Tasman Ave
+4,Prawn Chow Mein,1,Zion,65098709707,29 Seaview St
+5,BBQ Pork,1,Owen,09898875787,89 Wall Rd
+6,Seafood Fried Rice,1,Mitch,24895709859,26 Amway St
+7,Nasi Goreng,1,Gavin,23409868077,67 Fontenoy Ave
+8,Prawn Chow Mein,4,Uda,43076976829,24 Bakers Ave
+9,Soya Sauce Chichen,1,Leon,12456098787,15 Duncan St
+10,Roast Pork Noodle Soup,3,Billy,45786989890,23 Hill St
+11,Chicken Fried Rice,1,Ian,04878909809,34 Cohen Rd
+12,Beef Fried Rice,1,Eva,29385878790,48 Ponsonby Ave
+13,Veggies Chow Mein,2,Peter,02357687632,19 Namsat Ave
+14,Pork Chow Mein,1,Sue,02450980928,16 Sutherland St
+15,Wonton Soup,4,Jay,04878909809,34 Cohen Rd
+16,Pork Fried Rice,2,Xavier,30875977980,53 Parks Rd
+17,BBQ Pork,2,Eva,78698700289,74 Small St
